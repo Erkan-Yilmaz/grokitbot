@@ -10,7 +10,7 @@ http://suttree.com/code/GrokItBot/
 
 Running GrokItBot:
 
-You can run GrokItBot with just he defaults, like this:
+You can run GrokItBot with just the defaults, like this:
 
 ./GrokItBot.py
 
